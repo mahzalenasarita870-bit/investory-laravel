@@ -4,7 +4,7 @@
 
 ---
 
-## **📸 Tampilan Antarmuka Aplikasi (UI)**
+## ** Tampilan Antarmuka Aplikasi (UI)**
 
 ### **1. Halaman Autentikasi / Login**
 Halaman masuk aman bagi admin/pengelola sistem inventaris MahzaGlow.
@@ -32,7 +32,7 @@ Formulir pembaruan data produk meliputi SKU, nama produk, kategori, harga, jumla
 
 ---
 
-## **🚀 Fitur Utama Sistem**
+## ** Fitur Utama Sistem**
 
 - **Dashboard Real-time**: Kalkulasi otomatis total nilai inventaris (Rp) dan jumlah total unit terdaftar.
 - **Peringatan Stok Menipis (*Low Stock Alert*)**: Notifikasi otomatis ketika stok produk berada di bawah/mencapai batas minimal.
@@ -45,7 +45,7 @@ Formulir pembaruan data produk meliputi SKU, nama produk, kategori, harga, jumla
 
 ---
 
-## **🛠️ Teknologi yang Digunakan**
+## ** Teknologi yang Digunakan**
 
 | Komponen | Teknologi / Library |
 | :--- | :--- |
@@ -57,7 +57,7 @@ Formulir pembaruan data produk meliputi SKU, nama produk, kategori, harga, jumla
 
 ---
 
-## **⚙️ Cara Menjalankan Proyek Secara Lokal**
+## ** Cara Menjalankan Proyek Secara Lokal**
 
 | **Langkah Ke-** | **Instruksi & Perintah** |
 | :--- | :--- |
@@ -70,7 +70,7 @@ Formulir pembaruan data produk meliputi SKU, nama produk, kategori, harga, jumla
 
 ---
 
-## **👤 Penulis / Pengembang**
+## ** Penulis / Pengembang**
 
 - **Nama**: Mahzalena Sarita
 - **Sistem**: MahzaGlow Skincare Inventory Management
